@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+redis
+openai
+langdetect
+gtts
+whisper
+pydantic
+python-multipart
+websockets
+psycopg2-binary
